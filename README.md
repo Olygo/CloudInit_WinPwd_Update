@@ -8,7 +8,7 @@
 - Automates the installation of PowerShell 7.3.8 and OCI PowerShell modules on a Windows-based OCI compute instance. 
 - Retrieves a secret from OCI Vault to update the Windows password for the OPC account
 - Configures certain instance parameters. 
-- Sends an OCI Notification.
+- Sends you an OCI Email Notification once the instance is running .
 
 **2 examples are provided :**
 
